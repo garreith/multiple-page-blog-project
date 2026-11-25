@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "favGame": "Minecraft",
+      "favSong": "Blinding Lights - The Weeknd",
+      "dateCreated": "15/03/1995"
+    },
+    {
+      "id": 2,
+      "name": "Sarah",
+      "favGame": "The Sims 4",
+      "favSong": "Cruel Summer - Taylor Swift",
+      "dateCreated": "22/07/1998"
+    },
+    {
+      "id": 3,
+      "name": "Michael",
+      "favGame": "Grand Theft Auto V",
+      "favSong": "Starboy - The Weeknd",
+      "dateCreated": "09/11/1992"
+    },
+    {
+      "id": 4,
+      "name": "Emily",
+      "favGame": "Stardew Valley",
+      "favSong": "Flowers - Miley Cyrus",
+      "dateCreated": "18/01/2000"
+    },
+    {
+      "id": 5,
+      "name": "David",
+      "favGame": "Elden Ring",
+      "favSong": "Believer - Imagine Dragons",
+      "dateCreated": "04/05/1996"
+    },
+    {
+      "id": 6,
+      "name": "Jessica",
+      "favGame": "The Legend of Zelda: Breath of the Wild",
+      "favSong": "Anti-Hero - Taylor Swift",
+      "dateCreated": "30/09/1999"
+    },
+    {
+      "id": 7,
+      "name": "Daniel",
+      "favGame": "Counter-Strike 2",
+      "favSong": "Numb - Linkin Park",
+      "dateCreated": "12/12/1994"
+    },
+    {
+      "id": 8,
+      "name": "Sophia",
+      "favGame": "Genshin Impact",
+      "favSong": "Levitating - Dua Lipa",
+      "dateCreated": "25/02/2002"
+    }
+  ]
+}
